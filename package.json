@@ -1,6 +1,6 @@
 
   {
-      "name": "Construction Cost Calculator App",
+      "name": "CalculadoradoConstrutor",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
