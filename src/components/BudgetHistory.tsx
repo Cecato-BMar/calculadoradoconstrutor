@@ -38,7 +38,7 @@ import { ScrollArea } from './ui/scroll-area';
 import { Separator } from './ui/separator';
 import { SavedBudget } from '../hooks/useBudgetHistory';
 import { formatCurrency } from '../hooks/useSettings';
-import { toast } from 'sonner@2.0.3';
+import { toast } from 'sonner';
 
 interface BudgetHistoryProps {
   history: SavedBudget[];
