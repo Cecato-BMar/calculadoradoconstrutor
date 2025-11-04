@@ -13,7 +13,7 @@ import { SettingsDialog } from './components/SettingsDialog';
 import { HelpDialog } from './components/HelpDialog';
 import { useSettings } from './hooks/useSettings';
 import { useBudgetHistory } from './hooks/useBudgetHistory';
-import { toast } from 'sonner@2.0.3';
+import { toast } from 'sonner';
 
 export interface CalculationItem {
   id: string;
