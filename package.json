@@ -57,11 +57,7 @@
       "scripts": {
           "dev": "vite",
           "build": "vite build"
-      },
-    {
-  "type": "module",
-  "scripts": {
-    "build": "vite build"
-  }
+      }
+   
 }
   }
